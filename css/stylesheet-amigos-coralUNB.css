@@ -273,7 +273,8 @@ footer .row:last-of-type { padding-top: 20px; }
 
 .rouanet .fonte { margin-top: 50px; }
 .rouanet .lei  { color: black; text-shadow: none; padding: 0 20px;  width: 80%; margin: 0px auto; border: 2px solid #334a5f; outline: 1.5px solid #9c9328; /*2px solid #b5b39b*/ }
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 470px) {
+	.rouanet { padding: 20px; }
 	.rouanet .lei  { width: 100%; }
 }
 @media only screen and (min-width: 960px) {
